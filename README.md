@@ -1,13 +1,23 @@
-# information design pattern
-For efficient remixability of points we need a tag matching system. Each file should be described by tags that identify the topic and track it implements.
+# Editing content for the HOPE website
 
-_track_: a flavor of the learning material (fx. R, MatLab, humanities, HPC, ...)  
+please be careful when editing these files, they follow strict syntactic rules.
 
-_topic_: the scope and perspective on the taught materials (fx. 'git pull origin master example')
+__always check how it looks by visiting the website__
 
-### an example:
+### Markdown files
 
-1) a learner follows a course on git-collaborative. 
-2) the course markdown references a sequence of _elaborations_ - material around a concise group of points addressing a single user action with a distinct purpose, like 'pulling a repository', or 'switching between branches'. To accomodate different learning styles and learner backgrounds all elaborations and examples have a _track_ identifier. The identifier determines which elaboration to choose. 
-3) the client then embeds the appropriate elaborations in the course.
-4) viewing the material the learner can reduce the verbosity with a slider to adapt the material with growing comprehension.
+markdown is rather forgiving, but can layout depends on whitespace
+
+caveats: too few or too many whitespace characters?
+
+### JSON files
+
+people.json uses the JSON standard.
+
+[JSON standard}(https://www.json.org/json-en.html)
+
+caveats: 
+  - comma after the last item in an array?
+  - single quotes instead of double quotes?
+  - forgot to quote string value?
+  - typos?
