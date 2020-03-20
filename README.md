@@ -8,7 +8,7 @@ __always check how it looks by visiting the website__
 
 markdown is rather forgiving, but can layout depends on whitespace
 
-[Markown convention used}(https://markdown-it.github.io/)
+[Markown convention used](https://markdown-it.github.io/)
 
 caveats: too few or too many whitespace characters?
 
@@ -16,7 +16,7 @@ caveats: too few or too many whitespace characters?
 
 people.json uses the JSON standard.
 
-[JSON standard}(https://www.json.org/json-en.html)
+[JSON standard](https://www.json.org/json-en.html)
 
 caveats: 
   - comma after the last item in an array?
