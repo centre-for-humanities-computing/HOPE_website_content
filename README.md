@@ -1,8 +1,15 @@
 # Editing content for the HOPE website
 
-please be careful when editing these files, they follow strict syntactic rules.
+```
+Please be careful when editing these files, they follow strict syntactic rules.
 
-__always check how it looks by visiting the website__
+Procedure: 
+ - edit a file
+ - commit your changes with a concise note with the purpose of your change
+ - wait a few minutes
+ - visit the project website 
+ - on error: repeat
+```
 
 ### Markdown files
 
