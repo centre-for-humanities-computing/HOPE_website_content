@@ -1,11 +1,11 @@
 # HOPE - How Democracies Cope with Covid19
 _A Data-Driven Approach_
 
-How do democracies react and cope as the covid19 crisis unfolds and with what effects? This is the core question we ask in the HOPE project - “How Democracies Cope with Covid19: A Data-Driven Approach”. The HOPE project constitutes an unprecedented research project which examines the interrelationship between the 
+How do democracies react and cope as the covid19 crisis unfolds and with what effects? This is the core question we ask in the HOPE project - “How Democracies Cope with Covid19: A Data-Driven Approach”. The HOPE project constitutes an unprecedented research project which examines the interrelationship between
  
- - trajectory of the covid19
+ - the trajectory of the covid19
  - the decisions of governments and international organisations
- - media and social media landscapes and 
+ - the decisions of media and social media landscapes 
  - citizens’ behavior and well-being. 
  
 To this end, we utilize the fact that the covid19 pandemic is unfolding in the middle of the “big data” revolution. For the first time in human history, we are able to measure with extreme precision and time-resolution how governments and citizens react (and with what consequences) during an extremely severe crisis.
