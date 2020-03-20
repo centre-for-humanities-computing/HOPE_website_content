@@ -1,8 +1,8 @@
 # newsfeed articles
 
-The news feed is described by two kinds of files
+The news feed is described by two types of files
 
-## 1: The article sequence file
+## 1: A Article Sequence file
 
 This file contains a list of article file names.
 Their sequence represents the order in which they will appear in the news feed
