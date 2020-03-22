@@ -13,7 +13,7 @@ Procedure:
 
 ### Markdown files
 
-markdown is rather forgiving, but can layout depends on whitespace
+markdown is rather forgiving, but its layout depends on whitespace
 
 [Markown convention used](https://markdown-it.github.io/)
 
