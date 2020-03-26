@@ -45,5 +45,32 @@
       "+45 30 95 95 69"
     ],
     "imageUrl": "https://ps.au.dk/fileadmin/ingen_mappe_valgt/Sune.png"
+  },
+  {
+    "name": "Alexander Bor",
+    "role": "Post-doc",
+    "title": "PhD",
+    "affiliation": "Aarhus Univerisity",
+    "email": "alexander.bor@ps.au.dk",
+    "imageUrl": "https://pure.au.dk/portal/files/84860028/Alexander_Bor_7109.jpg"
+  },
+  {
+    "name": "Frederik Jørgensen",
+    "role": "Post-doc",
+    "title": "PhD",
+    "affiliation": "Aarhus University",
+    "email": "fj@ps.au.dk",
+    "imageUrl": "https://media-exp1.licdn.com/dms/image/C5603AQG5GNPc-NToXg/profile-displayphoto-shrink_200_200/0?e=1590624000&v=beta&t=NSCmEhXgih9KyBK8a8Ry6osZH0kHm9pFondnNM2GGWY"
+  },
+  {
+    "name": "Marie Fly Lindholdt",
+    "role": "Scientific assistant",
+    "title": "",
+    "affiliation": "Aarhus University",
+    "email": "mfl@econ.au.dk",
+    "phone": [
+      "+45 93 52 21 45"
+    ],
+    "imageUrl": "https://pure.au.dk/portal/files/178012322/MFL.jpg"
   }
 ]
