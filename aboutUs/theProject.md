@@ -4,7 +4,7 @@ How do democracies react and cope as the COVID-19 crisis unfolds and with what e
  - the trajectory of the COVID-19
  - the decisions of governments and international organisations
  - the decisions of media and social media landscapes 
- - citizens’ behavior and well-being. 
+ - citizens’ behavior and well-being
  
 To this end, we utilize the fact that the COVID-19 pandemic is unfolding in the middle of the “big data” revolution. For the first time in human history, we are able to measure with extreme precision and time-resolution how governments and citizens react (and with what consequences) during an extremely severe crisis.
 
