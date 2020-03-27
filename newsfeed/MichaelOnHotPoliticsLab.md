@@ -1,4 +1,4 @@
-## Leadership during COVID-19 – Hot Politics Lab Presentation
+# Leadership during COVID-19 – Hot Politics Lab Presentation
 
 Michael Bang Petersen gave an online guest lecture for the University of Amsterdam’s Hot Politics Lab. His key point: “#FlattenTheCurve via __optimistic anxiety__!” 
 
