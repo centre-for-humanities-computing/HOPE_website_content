@@ -15,5 +15,3 @@ The second phase occurs after the COVID-19 crisis and focuses on understanding a
 ---
 
 # The People
-
-<vPeople filePath="aboutUs/people.json"></vPeople>
