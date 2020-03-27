@@ -13,4 +13,7 @@ The HOPE project involves two phases. The first phase occurs during the unfoldin
 The second phase occurs after the COVID-19 crisis and focuses on understanding and evaluating how the different strategies and events shaped the trajectory of the epidemic across different countries.
 
 ---
+
 # The People
+
+<vPeople filePath="aboutUs/people.json"></vPeople>
