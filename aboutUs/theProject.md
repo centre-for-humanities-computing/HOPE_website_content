@@ -11,3 +11,6 @@ To this end, we utilize the fact that the COVID-19 pandemic is unfolding in the 
 The HOPE project involves two phases. The first phase occurs during the unfolding of the COVID-19 and focuses all resources on data-harvesting and rapid analyses to support key national authorities in their efforts to contain the COVID-19 epidemic. In Denmark, for example, we are currently seeking to establish contact with the prime minister’s office and the ministry of health and will seek to help qualify their decisions for the benefit of society. Achieving the highest level of social scientific responsibility is crucial in this phase.
 
 The second phase occurs after the COVID-19 crisis and focuses on understanding and evaluating how the different strategies and events shaped the trajectory of the epidemic across different countries.
+
+---
+# The People
