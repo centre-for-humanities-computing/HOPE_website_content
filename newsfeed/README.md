@@ -1,5 +1,10 @@
 # newsfeed articles
 
+user quote:
+```
+% A few sentences about news on HOPE related activities/media features.
+```
+
 The news feed is described by two types of files
 
 ## 1: A Article Sequence file

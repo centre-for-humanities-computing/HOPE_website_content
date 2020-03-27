@@ -1,7 +1,7 @@
 # About Us
 
 ### The Project
-How do democracies react and cope as the COVID-19 crisis unfolds and with what effects? This is the core question we ask in the HOPE project - “How Democracies Cope with COVID-19: A Data-Driven Approach”. The HOPE project constitutes an unprecedented research project which examines the interrelationship between
+How do democracies react and cope as the COVID-19 crisis unfolds and with what effects? This is the core question we ask in the HOPE project - _“How Democracies Cope with COVID-19: A Data-Driven Approach”_. The HOPE project constitutes an unprecedented research project which examines the interrelationship between
  
  - the trajectory of the COVID-19
  - the decisions of governments and international organisations
