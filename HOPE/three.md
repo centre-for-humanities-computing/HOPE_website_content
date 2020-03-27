@@ -1,4 +1,4 @@
-# four
+# three
 
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid error facilis nostrum officia quas reprehenderit. 
 ![missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/coronaLandscape.png)
