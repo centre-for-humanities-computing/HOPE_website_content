@@ -19,3 +19,5 @@ For `testImage.jpg` the notation thus becomes:
 ```markdown
 ![missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/testImage.jpg)
 ```
+
+If you want to add a subtitle to the image leave no more than a single whitespace character between the image and the title text.
