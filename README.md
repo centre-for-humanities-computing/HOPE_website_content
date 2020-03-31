@@ -3,8 +3,12 @@
 Please be careful when editing these files, they follow strict syntactic rules.
 
 ## Procedure: 
+Webmaster:
  - edit a file 
  - commit your changes with a concise note with the purpose of your change
+ - notify Max to pull your changes
+ 
+ Max:
  - login to the server in AU's VPN 
  - cd into the website directory
  - `git pull origin master`
