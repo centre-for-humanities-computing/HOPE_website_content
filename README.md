@@ -3,12 +3,13 @@
 ```
 Please be careful when editing these files, they follow strict syntactic rules.
 
-Procedure: 
- - edit a file
+## Procedure: 
+ - edit a file 
  - commit your changes with a concise note with the purpose of your change
  - login to the server in AU's VPN 
  - cd into the website directory
- - git pull origin master
+ - `git pull origin master`
+ - `npm run build`
 ```
 
 ### Markdown files
