@@ -13,7 +13,7 @@
   },
   {
     "name": "Adreas Roepstorff",
-    "role": "Co-PIs",
+    "role": "Co-PI",
     "title": "Professor",
     "affiliation": "Aarhus Univerisity",
     "email": "andreas.roepstorff@cas.au.dk",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Rebecca Adler-Nissen",
-    "role": "Co-PIs",
+    "role": "Co-PI",
     "title": "Professor",
     "affiliation": "University of Copenhagen",
     "email": "ran@ifs.ku.dk",
@@ -36,7 +36,7 @@
   },
   {
     "name": "Sune Lehmann Jørgensen",
-    "role": "Co-PIs",
+    "role": "Co-PI",
     "title": "Professor",
     "affiliation": "Technical University of Denmark",
     "email": "sljo@dtu.dk",
@@ -64,8 +64,8 @@
   },
   {
     "name": "Marie Fly Lindholdt",
-    "role": "Scientific assistant",
-    "title": "",
+    "role": "",
+    "title": "Scientific assistant",
     "affiliation": "Aarhus University",
     "email": "mfl@econ.au.dk",
     "phone": [
