@@ -1,6 +1,5 @@
 # Editing content for the HOPE website
 
-```
 Please be careful when editing these files, they follow strict syntactic rules.
 
 ## Procedure: 
@@ -10,7 +9,6 @@ Please be careful when editing these files, they follow strict syntactic rules.
  - cd into the website directory
  - `git pull origin master`
  - `npm run build`
-```
 
 ### Markdown files
 
