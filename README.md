@@ -18,7 +18,7 @@ Webmaster:
 
 markdown is rather forgiving, but its layout depends on whitespace
 
-[Markown convention used](https://markdown-it.github.io/)
+[Markdown convention used](https://markdown-it.github.io/)
 
 caveats: too few or too many whitespace characters?
 
