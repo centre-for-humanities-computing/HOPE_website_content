@@ -1,5 +1,22 @@
 [
   {
+    "context": "webPage",
+    "contextName" : "politiken.dk",
+    "authors": [
+      "Petersen, M. B.",
+      "Andreas Roepstorff"
+    ],
+    "magazineTitle": "Politiken",
+    "url": "https://politiken.dk/debat/kroniken/art7730037/Den-rigtige-coronakrise-kommer-f%C3%B8rst-nu",
+    "publicationYear": 2020,
+    "publicationMonth": 3,
+    "publicationDay": 31,
+    "titleOfPage": "Den rigtige coronakrise kommer først nu",
+    "accessYear": 2020,
+    "accessMonth": 4,
+    "accessDay": 6
+  },
+  {
     "context": "articleInPrePrint",
     "contextName" : "PsyArXiv Preprints",
     "authors": [
