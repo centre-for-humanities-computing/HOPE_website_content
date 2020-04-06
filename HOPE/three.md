@@ -1,4 +1,4 @@
-![carlsbergfoundation](https://github.com/centre-for-humanities-computing/HOPE_website_content/tree/master/images/carlsbergfondet_logo.png)
+![carlsbergfoundation](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/carlsbergfondet_logo.png)
 
 The research project was granted DKK 25 million by the [**Carlsberg Foundation** ](https://www.carlsbergfondet.dk/en/News/News-from-the-Foundation/News/25-million-DKK-to-social-behavioral-research-during-the-Covid19-epidemic). 
 
