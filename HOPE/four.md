@@ -1,7 +1,7 @@
 # Coronakrisen i Danmark
 
- - [Udvikling af symptomer](/#/coronaCrisisInDK#CoronaCrisisInDK%2FcoronaCrisis_1_da.md)
- - [Udvikling i vaner under isolation](/#/coronaCrisisInDK#CoronaCrisisInDK%2FcoronaCrisis_2_da.md)
- - [Udvikling i compliance](/#/coronaCrisisInDK#CoronaCrisisInDK%2FcoronaCrisis_3_da.md)
- - [Udvikling i optimisme og ængstelse](/#/coronaCrisisInDK#CoronaCrisisInDK%2FcoronaCrisis_4_da.md)
+ - [Udvikling af symptomer](/#/coronaCrisisInDK#coronaCrisis_1_da_md)
+ - [Udvikling i vaner under isolation](/#/coronaCrisisInDK#coronaCrisis_2_da_md)
+ - [Udvikling i compliance](/#/coronaCrisisInDK#coronaCrisis_3_da_md)
+ - [Udvikling i optimisme og ængstelse](/#/coronaCrisisInDK#coronaCrisis_4_da_md)
 

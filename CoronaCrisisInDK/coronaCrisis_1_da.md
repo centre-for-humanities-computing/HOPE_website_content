@@ -1,6 +1,3 @@
-# <strong>Hvad er status på udviklingen i corona-situationen?</strong> 
-Tracking af covid-19 symptomer, danskernes adfærd, vaner og oplevelser 
-
 # Udvikling af symptomer
 __Udviklingen i Covid-19 symptomer er stabil__
   
