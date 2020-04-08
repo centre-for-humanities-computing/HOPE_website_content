@@ -1,3 +1,3 @@
-# Alvoren vokser, og det er nødvendigt at udvise samfundssind
+# The severity increases and it is necessary to express community spirit
 
-Michael Bang Petersen udtaler sig i en [artikel](https://finans.dk/politik/ECE11998293/alvoren-vokser-og-det-er-noedvendigt-at-udvise-samfundssind/?ctxref=ext) i Finans fra 10. marts. "Det er en krise, som det kun er befolkningen, der kan løse.", siger professoren.  
+In an [article](https://finans.dk/politik/ECE11998293/alvoren-vokser-og-det-er-noedvendigt-at-udvise-samfundssind/?ctxref=ext) publsihed in Finans on March 10th, professor Michael Bang Petersen states: "This is a crisis that only the public can solve".

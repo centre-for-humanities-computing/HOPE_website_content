@@ -1,3 +1,3 @@
-# Professor skal lede forskning i social adfærd under Coronaepidemien
+# Professor will lead research in social behaviour during the Corona epidemic
 
-Altinget udgav 24. marts 2020 en artikel, der introducerede HOPE-projektet med Michael Bang Petersen i spidsen. Læs artiklen [her](https://www.altinget.dk/civilsamfund/navnenyt/professor-skal-lede-forskning-i-social-adfaerd-under-coronaepidemien). 
+Altinget published an article on March 24 2020, that introduced the HOPE-project with Michael Bang Petersen. Read article [here](https://www.altinget.dk/civilsamfund/navnenyt/professor-skal-lede-forskning-i-social-adfaerd-under-coronaepidemien). 

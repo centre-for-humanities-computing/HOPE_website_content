@@ -1,3 +1,3 @@
-# Big data og adfærdsanalyser skal vise vej gennem krisen
+# Big data and behavioural analysis will lead the way through this crisis
 
-Analyser af store mængder data skal vise om offentlige tiltag virker, skriver professor ved DTU Compute Sune Lehmann Jørgensen, som er den del af forskningsteamet HOPE. Læs artiklen [her](https://www.dtu.dk/nyheder/2020/03/big-data-machine-learning-og-adfaerdsanalyser-skal-guide-danmark-gennem-corona-krisen?id=da471393-8f17-4e29-b360-71a0e56fb0db). 
+The analysis of large amounts of data will show whether public actions works, professor at DTU Compute Sune Lehmann Jørgensen writes. Sune is a part of the research team at HOPE. Read article [here](https://www.dtu.dk/nyheder/2020/03/big-data-machine-learning-og-adfaerdsanalyser-skal-guide-danmark-gennem-corona-krisen?id=da471393-8f17-4e29-b360-71a0e56fb0db). 
