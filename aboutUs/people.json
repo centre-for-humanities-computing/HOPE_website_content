@@ -55,12 +55,32 @@
     "imageUrl": "https://pure.au.dk/portal/files/84860028/Alexander_Bor_7109.jpg"
   },
   {
+    "name": "Charlotte Nørholm",
+    "role": "Research Assistant",
+    "title": "",
+    "affiliation": "Aarhus University",
+    "email": "fj@ps.au.dk",
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/CharlotteNørholm.jpg"
+  },
+  {
     "name": "Frederik Jørgensen",
     "role": "Post-doc",
     "title": "PhD",
     "affiliation": "Aarhus University",
     "email": "fj@ps.au.dk",
     "imageUrl": ""
+  },
+  {
+    "name": "Jens Seeberg",
+    "role": "",
+    "title": "Professor",
+    "affiliation": "Aarhus University",
+    "email": "jseeberg@cas.au.dk",
+    "phone": [
+      "+45 87 16 21 17",
+      "+45 20 59 67 70"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/JensSeeberg.jpg"
   },
   {
     "name": "Marie Fly Lindholdt",
@@ -72,5 +92,35 @@
       "+45 93 52 21 45"
     ],
     "imageUrl": "https://pure.au.dk/portal/files/178012322/MFL.jpg"
+  },
+  {
+    "name": "Mette Terp Høybye",
+    "role": "",
+    "title": "Associate Professor",
+    "affiliation": "Aarhus University",
+    "email": "hoybye@cas.au.dk",
+    "phone": [
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/MetteTerpHøybye.jpg"
+  },
+  {
+    "name": "Malte Lehrmann",
+    "role": "Research Assistant",
+    "title": "",
+    "affiliation": "Aarhus University",
+    "email": "lehrmann@cas.au.dk",
+    "phone": [
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/MalteLehrmann.jpg"
+  },
+  {
+    "name": "Rebekah Brita Baglini",
+    "role": "",
+    "title": "Associate Professor",
+    "affiliation": "Aarhus University",
+    "email": "rbkh@cc.au.dk",
+    "phone": [
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/RebekahBaglini.jpg"
   }
 ]
