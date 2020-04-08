@@ -9,7 +9,7 @@ Figur 2 illustrerer udvikling i folks vaner under myndighedernes anbefalede isol
 Figuren viser relativt stabile udviklinger i andelen der føler de spiser sundt og har fået nok motion over hele perioden. I perioden fra den 13-03 til 19-03 skete der et markant fald i andelen, der har været i kontakt med nære venner og/eller familie. Fra den 19-03 til den 27-03 har niveauet været stabilt på omkring 25 procent. Herefter viser figuren en opadgående tendens i andelen, der har været i kontakt med nære venner og/eller familie. Den 31-10 var dette tal på 30,4 procent. Siden den 17-03 har andelen, der føler sig alene været relativt stabil på omkring 20-25 procent. Man bør imidlertid være opmærksomme på disse tal, da vi ved, at det potentielt kan medføre negative konsekvenser for folks mentale sundhed. 
 
 
-[missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/Picture2.png) Figur 2. Udviklingen i vaner under den nuværende isolation
+![missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/Picture2.png) Figur 2. Udviklingen i vaner under den nuværende isolation
 
 
 __Hvordan gjorde vi?__  
