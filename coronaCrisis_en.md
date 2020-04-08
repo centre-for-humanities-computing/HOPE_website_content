@@ -1,3 +1,0 @@
-# Corona-Crisis in Denmark
-
-Exciting information for fans...
