@@ -1,4 +1,4 @@
-# Udivkling i compliance  
+# Udvikling i compliance  
 
 __Danskerne undgår i mindre grad større forsamlinger__  
 På trods af at danskerne generelt udviser en adfærd, der er i overensstemmelse med myndighedernes anvisninger, ses der et fald i andelen, der undgår forsamlinger over 10 personer. Den 23-03 toppede dette tal med 92,3 procent. Siden den 23-03 er dette tal dog faldet til 86 procent den 31-03. Det er vigtigt, at denne udvikling ikke fortsætter i en nedadgående retning.
