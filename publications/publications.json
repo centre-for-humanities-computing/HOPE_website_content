@@ -1,54 +1,18 @@
 [
   {
-    "context": "webPage",
-    "language": "da",
-    "contextName" : "bss.au.dk",
+    "context": "articleInPrePrint",
+    "language": "en",
+    "contextName" : "PsyArXiv Preprints",
     "authors": [
-      "Michael Schrøder"
+      "Larsen, M. V.",
+      "Petersen, M.",
+      "Nyrup, J"
     ],
-    "magazineTitle": "School of Business and Social Sciences",
-    "url": "https://bss.au.dk/insights/samfund-2/2020/adfaerd-i-en-coronatid/",
     "publicationYear": 2020,
     "publicationMonth": 4,
-    "publicationDay": 2,
-    "titleOfPage": "Corona-Krisen 3/3 - Økonomi i en coronatid",
-    "accessYear": 2020,
-    "accessMonth": 4,
-    "accessDay": 8
-  },
-  {
-    "context": "webPage",
-    "language": "da",
-    "contextName" : "bss.au.dk",
-    "authors": [
-      "Michael Schrøder"
-    ],
-    "magazineTitle": "School of Business and Social Sciences",
-    "url": "https://bss.au.dk/insights/samfund-2/2020/adfaerd-i-en-coronatid/",
-    "publicationYear": 2020,
-    "publicationMonth": 4,
-    "publicationDay": 2,
-    "titleOfPage": "Corona-Krisen 2/3 - Adfærd i en coronatid",
-    "accessYear": 2020,
-    "accessMonth": 4,
-    "accessDay": 8
-  },
-  {
-    "context": "webPage",
-    "language": "da",
-    "contextName" : "bss.au.dk",
-    "authors": [
-      "Michael Schrøder"
-    ],
-    "magazineTitle": "School of Business and Social Sciences",
-    "url": "https://bss.au.dk/insights/business-1/2020/ledelse-i-en-coronatid/",
-    "publicationYear": 2020,
-    "publicationMonth": 4,
-    "publicationDay": 2,
-    "titleOfPage": "Corona-krisen 1/3 - Ledelse ie ne coronatid",
-    "accessYear": 2020,
-    "accessMonth": 4,
-    "accessDay": 8
+    "publicationDay": 8,
+    "articleTitle": "Do Survey Estimates of the Public’s Compliance with COVID-19 Regulations Suffer from Social Desirability Bias?",
+    "doiUrl": "https://doi.org/10.31234/osf.io/cy4hk"
   },
   {
     "context": "webPage",
