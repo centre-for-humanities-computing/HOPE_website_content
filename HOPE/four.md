@@ -7,4 +7,4 @@
 
 #  Unge under Coronakrisen
 
-- [Udvikling i unges adfærd](/#/coronaCrisisInDK#UngeUnderCorona_da_md)
+- [Udvikling i unges adfærd](/#/coronaCrisisInDK#UngeUnderCorona_da.md)
