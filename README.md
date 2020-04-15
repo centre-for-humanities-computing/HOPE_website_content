@@ -2,6 +2,14 @@
 
 Please be careful when editing these files, they follow strict syntactic rules.
 
+
+While this website has dedicated pages with fixed content slots, markdown documents from the content repository can be viewed and linked to as individual pages with the following url template:
+
+```
+/#/document/:directory/:filename
+```
+
+
 ## Procedure: 
 Webmaster:
  - edit a file 
@@ -33,3 +41,4 @@ caveats:
   - single quotes instead of double quotes?
   - forgot to quote string value?
   - typos?
+
