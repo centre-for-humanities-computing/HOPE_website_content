@@ -10,6 +10,6 @@
 - [Udvikling i unges adfærd](/#/coronaCrisisInDK#UngeUnderCorona_da_md)
 
 
-# Danmark og Sverige
+# Danmark vs. Sverige
 
-- [Udvikling i Danmark og Sverige](/#/coronaCrisisInDK#danmarkSverige_da_md)
+- [Udvikling i Danmark og Sverige](/#/document/coronaCrisisInDK/danmarkSverige_da.md)
