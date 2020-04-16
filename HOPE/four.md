@@ -12,4 +12,4 @@
 
 # Danmark vs. Sverige
 
-- [Udvikling i Danmark og Sverige](/#/document/coronaCrisisInDK/danmarkSverige_da.md)
+- [Udvikling i Danmark og Sverige](/#/document/CoronaCrisisInDK/danmarkSverige_da.md)
