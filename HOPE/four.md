@@ -12,4 +12,4 @@
 
 # Danmark og Sverige
 
-- [Udvikling i Danmark og Sverige](/#/md/:coronaCrisisInDK/:danmarkSverige_da.md)
+- [Udvikling i Danmark og Sverige]()
