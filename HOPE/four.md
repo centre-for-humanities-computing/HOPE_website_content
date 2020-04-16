@@ -1,5 +1,7 @@
 # Coronakrisen i Danmark
 
+![missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/Picture1.png)
+
  - [Udvikling af symptomer](/#/coronaCrisisInDK#coronaCrisis_1_da_md)
  - [Udvikling i vaner under isolation](/#/coronaCrisisInDK#coronaCrisis_2_da_md)
  - [Udvikling i compliance](/#/coronaCrisisInDK#coronaCrisis_3_da_md)
