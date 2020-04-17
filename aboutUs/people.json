@@ -46,6 +46,7 @@
     ],
     "imageUrl": "https://ps.au.dk/fileadmin/ingen_mappe_valgt/Sune.png"
   },
+  
   {
     "name": "Alexander Bor",
     "role": "Post-doc",
@@ -53,6 +54,29 @@
     "affiliation": "Aarhus Univerisity",
     "email": "alexander.bor@ps.au.dk",
     "imageUrl": "https://pure.au.dk/portal/files/84860028/Alexander_Bor_7109.jpg"
+  },
+  {
+    "name": "Anette Dorman",
+    "role": "Research Assistant",
+    "title": "PhD",
+    "affiliation": "Aarhus Univerisity",
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/AnetteDorman.jpg"
+  },
+  {
+    "name": "Cathrine Garbers",
+    "role": "Research Assistant",
+    "title": "",
+    "affiliation": "Aarhus Univerisity",
+    "email": "cgarbers@cas.au.dk",
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/CathrineGarbers.png"
+  },
+  {
+    "name": "Catrine Sundorf Kristensen",
+    "role": "Research Assistant",
+    "title": "",
+    "affiliation": "Aarhus Univerisity",
+    "email": "csun@cas.au.dk",
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/CatrineSundorfKristensen.jpeg"
   },
   {
     "name": "Charlotte Nørholm",
@@ -83,9 +107,20 @@
     "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/JensSeeberg.jpg"
   },
   {
+    "name": "Lea Kronborg Verstergaard",
+    "role": "",
+    "title": "Research assistant",
+    "affiliation": "Aarhus University",
+    "email": "leve@ecas.au.dk",
+    "phone": [
+      "+45 93 52 21 45"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/LeaKronborgVestergaard.JPG"
+  },
+  {
     "name": "Marie Fly Lindholdt",
     "role": "",
-    "title": "Scientific assistant",
+    "title": "Research assistant",
     "affiliation": "Aarhus University",
     "email": "mfl@econ.au.dk",
     "phone": [
