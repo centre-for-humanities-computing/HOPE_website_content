@@ -1,4 +1,7 @@
 # Udvikling i danskernes regelfølge
+##### Frederik Jørgensen & Michael Bang Petersen, HOPE-projektet
+###### 17. april, 2020
+
 
 __Om projekt og data__  
 HOPE-projektet ("How Democracies Cope With COVID-19") er finansieret med 25 millioner kr. af Carlsbergfondet til at undersøge danskernes holdninger og adfærd under coronakrisen.
