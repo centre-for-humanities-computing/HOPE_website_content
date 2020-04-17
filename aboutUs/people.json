@@ -46,7 +46,7 @@
     ],
     "imageUrl": "https://ps.au.dk/fileadmin/ingen_mappe_valgt/Sune.png"
   },
-  
+
   {
     "name": "Alexander Bor",
     "role": "Post-doc",
@@ -56,11 +56,11 @@
     "imageUrl": "https://pure.au.dk/portal/files/84860028/Alexander_Bor_7109.jpg"
   },
   {
-    "name": "Anette Dorman",
+    "name": "Annette Dorman",
     "role": "Research Assistant",
     "title": "PhD",
     "affiliation": "Aarhus Univerisity",
-    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/AnetteDorman.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/AnnetteDorman.jpg"
   },
   {
     "name": "Cathrine Garbers",
