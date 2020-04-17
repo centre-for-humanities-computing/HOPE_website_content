@@ -9,7 +9,7 @@
 
 #  Unge under Coronakrisen
 
-- [Udvikling i unges adfærd](/#/coronaCrisisInDK#UngeUnderCorona_da_md)
+- [Udvikling i unges adfærd](/#/document/CoronaCrisisInDK/UngeUnderCorona_da.md)
 
 
 # Danmark vs. Sverige
