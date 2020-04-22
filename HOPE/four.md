@@ -21,4 +21,4 @@
 
 # Ensomhed under Coronakrisen
 
-- [Udvikling i ensomhed under Coronakrisen i Danmark](/#/document/CoronaCrisisInDK/loneliness_da.md)
+- [Ensomhed under Coronakrisen i Danmark](/#/document/CoronaCrisisInDK/loneliness_da.md)
