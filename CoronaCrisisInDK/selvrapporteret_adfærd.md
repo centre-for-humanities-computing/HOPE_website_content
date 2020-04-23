@@ -195,15 +195,3 @@ Tabel 3. Understøttende regressionstabel til Figur 16
 ![tabel 3](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/selvrapport_tabel3.png)    
 
 
-
-* Vi anvender den polykoriske korrelationsmatrice, da den håndterer både kontinuerte og kategoriske variable bedre end en normal korrelationsmatrice.
-
-
-
-
-
-
-
-
-
-
