@@ -1,5 +1,7 @@
 # Coronakrisen i Danmark
 
+- [Danskernes adfærd og holdning til corona-epidemi - 22. april 2020](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/CoronaCrisisInDK/Rapportering_Corona-tracking_200422.md)  
+
 ![missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/Picture1.png)
 
  - [Udvikling af symptomer](/#/coronaCrisisInDK#coronaCrisis_1_da_md)
