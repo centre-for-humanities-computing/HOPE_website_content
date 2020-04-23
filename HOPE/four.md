@@ -1,6 +1,4 @@
 # Coronakrisen i Danmark
-- [Danskernes adfærd og holdning til corona-epidemi - 22. april 2020](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/CoronaCrisisInDK/Rapportering_Corona-tracking_200422.md)
-
 
 ![missing image](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/Picture1.png)
 
@@ -13,6 +11,8 @@
 # Adfærdsændringer i Danmark
 
 - [Udviklingen i danskernes regelfølge](/#/document/CoronaCrisisInDK/adfærdsændringer_da.md)
+
+- [Udvikling i danskernes selvrapporterede adfærd](/#/document/CoronaCrisisInDK/selvrapporteret_adfærd.md)
 
 #  Unge under Coronakrisen
 
