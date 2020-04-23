@@ -12,8 +12,6 @@
 
 # Adfærdsændringer i Danmark
 
-- [Udviklingen i danskernes regelfølge](/#/document/CoronaCrisisInDK/adfærdsændringer_da.md)
-
 - [Udvikling i danskernes selvrapporterede adfærd](/#/document/CoronaCrisisInDK/selvrapporteret_adfærd.md)
 
 #  Unge under Coronakrisen
