@@ -30,7 +30,7 @@ Denne måling er baseret på følgende spørgsmål:
 
 Analyserne viser andelene, der har svaret henholdsvis (1) "i høj grad", (2) 10 eller derover samt (3) "nej" på hvert af de tre spørgsmål. Vi præsenterer hvordan disse andele udvikler sig over tid i dataperioden. Udvikling vises for hver datarunde. I den første periode (indtil 31/03) svarer en datarunde til én enkelt dag, mens vi i den efterfølgende periode (fra 01/04 til 18/04) har fået to runder data per uge.
 
-#### Udvikling over tid i rå gennemsnit  
+__Udvikling over tid i rå gennemsnit__
 Nedenfor præsenteres udviklingen i de ”rå” andele over tid. Det vil sige, at vi – for hver variabel – plotter gennemsnittet i vores stikprøve, der svarer, at de udviser en given adfærd (sorte cirkler). Samtidig kvantificerer vi usikkerheden omkring hvert af disse estimater (sorte linjer) i form af et 95%-konfidensinterval. Først viser vi den overordnede udvikling i disse andele på tværs af vores data (den gennemsnitlige udvikling). Derefter splitter vi udviklingerne op i forhold til køn, alder og geografi (region). Konklusioner på måling af danskernes selvrapporterede adfærds- og kontaktmønstre  
 
 _Gennemsnitlige udviklinger_  
