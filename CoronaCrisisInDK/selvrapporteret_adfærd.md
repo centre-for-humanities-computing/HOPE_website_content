@@ -70,7 +70,7 @@ Figur 5. Adfærd opdelt på aldergrupper
 Figur 6. Adfærd opdelt på region  
 ![figur 6](https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/selvrapport_figur6.png)  
 
-#### Udvikling over tid modelleret vha. piecewise regressioner (med 95 % Cis)
+__Udvikling over tid modelleret vha. piecewise regressioner (med 95 % Cis)__  
 I nedenstående analyser modellerer vi de gennemsnitlige udviklingerne over tid ved hjælp af
 piecewise regressioner. Mere specifikt identificerer vi et punkt for hver adfærdsvariabel, hvor
 danskernes adfærd i forhold myndighederne anbefalinger topper. (For adfærdsændringsvariablen og
