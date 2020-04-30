@@ -3,6 +3,8 @@
 - [Danskernes adfærd, vaner og oplevelser](/#/document/CoronaCrisisInDK/status_2304.md)
 
 - [Danskernes adfærd og holdning til corona-epidemi - 22. april 2020](/#/document/CoronaCrisisInDK/Rapportering_Corona-tracking_200422.md) 
+- [Danskernes adfærd og holdning til corona-epidemi - 30. april 2020](/#/document/CoronaCrisisInDK/Rapportering_Corona-tracking_200430.md) 
+
 
 # Adfærdsændringer i Danmark
 
