@@ -8,7 +8,9 @@
 
 # Adfærdsændringer i Danmark
 
-- [Udvikling i danskernes selvrapporterede adfærd](https://github.com/centre-for-humanities-computing/HOPE_website_content/raw/master/CoronaCrisisInDK/Udvikling_i_danskernes_selvrapporterede_adfærd_01_05.pdf)
+
+- [Udvikling i danskernes selvrapporterede adfærd - 23. april 2020](https://github.com/centre-for-humanities-computing/HOPE_website_content/raw/master/CoronaCrisisInDK/Udvikling_i_danskernes_selvrapporterede_adfærd_23_04.pdf)
+- [Udvikling i danskernes selvrapporterede adfærd - 1. maj 2020](https://github.com/centre-for-humanities-computing/HOPE_website_content/raw/master/CoronaCrisisInDK/Udvikling_i_danskernes_selvrapporterede_adfærd_01_05.pdf)
 
 #  Unge under Coronakrisen
 
