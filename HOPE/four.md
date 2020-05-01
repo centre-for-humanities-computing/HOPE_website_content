@@ -8,7 +8,7 @@
 
 # Adfærdsændringer i Danmark
 
-- [Udvikling i danskernes selvrapporterede adfærd](/#/document/CoronaCrisisInDK/selvrapporteret_adfærd.md)
+- [Udvikling i danskernes selvrapporterede adfærd](https://github.com/centre-for-humanities-computing/HOPE_website_content/raw/master/CoronaCrisisInDK/Udvikling_i_danskernes_selvrapporterede_adfærd_01_05.pdf)
 
 #  Unge under Coronakrisen
 
