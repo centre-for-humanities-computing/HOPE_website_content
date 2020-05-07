@@ -46,7 +46,6 @@
     ],
     "imageUrl": "https://ps.au.dk/fileadmin/ingen_mappe_valgt/Sune.png"
   },
-
   {
     "name": "Alexander Bor",
     "role": "Post-doc",
@@ -94,6 +93,14 @@
     "affiliation": "Aarhus University",
     "email": "fj@ps.au.dk",
     "imageUrl": ""
+  },
+  {
+    "name": "Gitte Vandborg Rasmussen",
+    "role": "Research Assistant",
+    "title": "",
+    "affiliation": "Aarhus University",
+    "email": "grv@cas.au.dk",
+    "imageUrl": "https://raw.githubusercontent.com/centre-for-humanities-computing/HOPE_website_content/master/images/GitteVandborgRasmussen.jpg"
   },
   {
     "name": "Jens Seeberg",
